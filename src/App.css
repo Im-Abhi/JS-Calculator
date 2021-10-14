@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.grid{
+    display:grid ;
+    width: 320px;
+    height: 325px;
+}
+button{
+    width:80px;
+    height:65px;
+}
+.display{
+    text-align:right;
+    color:white;
+    background-color:black;
+    grid-column: 1/ span 4;
+}
+.clear, .zero{
+    grid-column: 1/ span 2;
+    width:160px;
+}
+.equals{
+    height: 130px;
+    grid-row: 5/ span 6;
+    grid-column: 4;
+}
