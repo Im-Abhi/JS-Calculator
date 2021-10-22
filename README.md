@@ -1,5 +1,8 @@
 # JS-Calculator
 A simple Calculator App made with ReactJS <br>
+![wJzlkfg9bv](https://user-images.githubusercontent.com/86161191/138494203-ecd9d46f-10eb-4bb2-881b-7854e478ace2.png)
+
+### Operations Supported
 You can perform all the basics operations ( +, -, *, / ) i.e. Add Subtract Multiply Divide
 
 # To start using JS-Calculator
